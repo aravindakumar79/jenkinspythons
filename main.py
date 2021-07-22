@@ -1,1 +1,3 @@
-"print('welcome to new pyhton coding')" 
+print('welcome to new pyhton coding')
+print('hello world')
+ 
